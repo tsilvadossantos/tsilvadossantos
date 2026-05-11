@@ -1,6 +1,6 @@
 # Thiago dos Santos
 
-**Lead Software Engineer** building high-scale distributed systems
+**Lead Software Engineer** building high-scale AI and distributed systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tdossantos)
 ![Profile Views](https://komarev.com/ghpvc/?username=tsilvadossantos&color=blue&style=flat)
